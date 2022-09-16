@@ -14,6 +14,6 @@
     }
   %>
   <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
-  <h2> Make change</h2>
+  <h2> Make changes</h2>
 </body>
 </html>
